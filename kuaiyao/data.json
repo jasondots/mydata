@@ -1,1 +1,21 @@
+{
+    "pf":[
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/pf01.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/pf02.jpg"
 
+    ],
+    "gm":[
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/gm01.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/gm02.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/gm03.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/gm04.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/gm05.jpg"
+    ],
+    "cw":[
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/cw01.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/cw02.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/cw03.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/cw04.jpg",
+        "https://cdn.jsdelivr.net/gh/jasondots/mydata@master/kuaiyao/images/cw05.jpg"
+    ]
+}
