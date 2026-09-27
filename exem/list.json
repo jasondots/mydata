@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": 1,
+    "title": "以下哪一个不是全局函数？",
+    "type": "radio",
+    "opts": [
+      { val: 0, txt: "trim" },
+      { val: 1, txt: "parseInt" },
+      { val: 2, txt: "isNaN" },
+      { val: 3, txt: "eval" }
+    ],
+    "answer": []
+  },
+  {
+    "id": 2,
+    "title": "Date对象不包括哪个方法？",
+    "type":"checkbox",
+    "opts": [
+      { val: 0, txt: "getFullYear" },
+      { val: 1, txt: "getYear" },
+      { val: 2, txt: "setDay" },
+      { val: 3, txt: "setSec" }
+    ],
+    "answer": []
+  },
+  {
+    "id": 3,
+    "title": "parseInt(-2.4)和 Math.floor(-2.4)结果分别是？",
+    "type": "radio",
+    "opts": [
+      { val: 0, txt: "2 , -3" },
+      { val: 1, txt: "-2 , -3" },
+      { val: 2, txt: "-2 , -2" },
+      { val: 3, txt: "2 , 2" }
+    ],
+    "answer": []
+  },
+]
